@@ -1,0 +1,1 @@
+# [Звіт](https://docs.google.com/document/d/1Idz4aXKvLJy50KwzVUKdj_SmvHcGvLKoMaZiERvyHv4/edit?usp=sharing)
