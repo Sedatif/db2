@@ -1,0 +1,172 @@
+INFO:root:2021-04-01 17:08:26.842865 Actor: qwerty1 Action: register 
+
+INFO:root:2021-04-01 17:08:46.586867 Actor: qwerty1 Action: log in 
+
+INFO:root:
+2021-04-01 17:08:46.593862 Event: User qwerty1 signed in
+INFO:root:2021-04-01 17:09:30.491870 Actor: asdfgh Action: register 
+
+INFO:root:2021-04-01 17:09:35.729876 Actor: asdfgh Action: log in 
+
+INFO:root:
+2021-04-01 17:09:35.737872 Event: User asdfgh signed in
+INFO:root:2021-04-01 17:14:58.864279 Actor: walshchristopher Action: register 
+
+INFO:root:2021-04-01 17:14:58.865280 Actor: walshchristopher Action: log in 
+
+INFO:root:2021-04-01 17:14:58.870278 Actor: jburke Action: register 
+
+INFO:root:2021-04-01 17:14:58.870278 Actor: jburke Action: log in 
+
+INFO:root:2021-04-01 17:14:58.874284 Actor: newmanfranklin Action: register 
+
+INFO:root:2021-04-01 17:14:58.875281 Actor: newmanfranklin Action: log in 
+
+INFO:root:2021-04-01 17:14:58.879279 Actor: cohenamanda Action: register 
+
+INFO:root:2021-04-01 17:14:58.880281 Actor: cohenamanda Action: log in 
+
+INFO:root:2021-04-01 17:14:58.884281 Actor: gregorychen Action: register 
+
+INFO:root:2021-04-01 17:14:58.885281 Actor: gregorychen Action: log in 
+
+INFO:root:
+2021-04-01 17:14:59.942275 Event: User walshchristopher sent spam message: "spam"
+INFO:root:
+2021-04-01 17:14:59.942275 Event: User walshchristopher sent spam message: "spam"
+INFO:root:
+2021-04-01 17:15:01.982273 Event: User jburke sent spam message: "spam"
+INFO:root:
+2021-04-01 17:15:02.102273 Event: User gregorychen sent spam message: "spam"
+INFO:root:
+2021-04-01 17:15:04.297331 Event: User gregorychen sent spam message: "spam"
+INFO:root:
+2021-04-01 17:15:05.031343 Event: User jburke sent spam message: "spam"
+INFO:root:
+2021-04-01 17:15:05.164331 Event: User walshchristopher sent spam message: "spam"
+INFO:root:
+2021-04-01 17:15:05.422334 Event: User cohenamanda sent spam message: "spam"
+INFO:root:
+2021-04-01 17:15:06.490339 Event: User newmanfranklin sent spam message: "spam"
+INFO:root:
+2021-04-01 17:15:08.127332 Event: User gregorychen sent spam message: "spam"
+INFO:root:
+2021-04-01 17:15:08.172334 Event: User cohenamanda sent spam message: "spam"
+INFO:root:
+2021-04-01 17:15:08.636331 Event: User cohenamanda sent spam message: "spam"
+INFO:root:
+2021-04-01 17:15:08.667338 Event: User newmanfranklin sent spam message: "spam"
+INFO:root:
+2021-04-01 17:15:09.338372 Event: User gregorychen sent spam message: "spam"
+INFO:root:2021-04-01 17:15:46.551403 Actor: asdfgh Action: sign out 
+
+INFO:root:
+2021-04-01 17:15:46.558402 Event: User asdfgh signed out
+INFO:root:2021-04-01 17:15:48.503403 Actor: asdfgh Action: sign out 
+
+INFO:root:2021-04-01 17:15:54.142401 Actor: qwerty1 Action: sign out 
+
+INFO:root:
+2021-04-01 17:15:54.149436 Event: User qwerty1 signed out
+INFO:root:2021-04-01 17:15:55.430401 Actor: qwerty1 Action: sign out 
+
+INFO:root:2021-04-01 17:39:13.679221 Actor: codymcguire Action: register 
+
+INFO:root:2021-04-01 17:39:13.680221 Actor: codymcguire Action: log in 
+
+INFO:root:2021-04-01 17:39:13.683221 Actor: bowmanlauren Action: register 
+
+INFO:root:2021-04-01 17:39:13.684225 Actor: bowmanlauren Action: log in 
+
+INFO:root:2021-04-01 17:39:13.689227 Actor: caseygina Action: register 
+
+INFO:root:2021-04-01 17:39:13.690228 Actor: caseygina Action: log in 
+
+INFO:root:2021-04-01 17:39:13.695226 Actor: mercedes45 Action: register 
+
+INFO:root:2021-04-01 17:39:13.695226 Actor: mercedes45 Action: log in 
+
+INFO:root:2021-04-01 17:39:13.700224 Actor: luis60 Action: register 
+
+INFO:root:2021-04-01 17:39:13.701224 Actor: luis60 Action: log in 
+
+INFO:root:2021-04-01 17:40:43.256708 Actor: asdfgh Action: log in 
+
+INFO:root:
+2021-04-01 17:41:02.786836 Event: User caseygina sent spam message: "spam"
+INFO:root:
+2021-04-01 17:41:02.873872 Event: User bowmanlauren sent spam message: "spam"
+INFO:root:
+2021-04-01 17:41:02.937839 Event: User caseygina sent spam message: "spam"
+INFO:root:
+2021-04-01 17:41:03.084839 Event: User bowmanlauren sent spam message: "spam"
+INFO:root:
+2021-04-01 17:41:03.209836 Event: User codymcguire sent spam message: "spam"
+INFO:root:
+2021-04-01 17:41:03.381833 Event: User mercedes45 sent spam message: "spam"
+INFO:root:
+2021-04-01 17:41:03.538837 Event: User luis60 sent spam message: "spam"
+INFO:root:
+2021-04-01 17:41:03.595840 Event: User caseygina sent spam message: "spam"
+INFO:root:
+2021-04-01 17:41:03.624833 Event: User bowmanlauren sent spam message: "spam"
+INFO:root:
+2021-04-01 17:41:03.745843 Event: User codymcguire sent spam message: "spam"
+INFO:root:
+2021-04-01 17:41:03.886834 Event: User caseygina sent spam message: "spam"
+INFO:root:
+2021-04-01 17:41:03.992833 Event: User codymcguire sent spam message: "spam"
+INFO:root:
+2021-04-01 17:41:04.244838 Event: User luis60 sent spam message: "spam"
+INFO:root:
+2021-04-01 17:41:04.383840 Event: User caseygina sent spam message: "spam"
+INFO:root:
+2021-04-01 17:41:04.660835 Event: User luis60 sent spam message: "spam"
+INFO:root:
+2021-04-01 17:41:04.683840 Event: User caseygina sent spam message: "spam"
+INFO:root:
+2021-04-01 17:41:04.722835 Event: User luis60 sent spam message: "spam"
+INFO:root:
+2021-04-01 17:41:04.742835 Event: User luis60 sent spam message: "spam"
+INFO:root:
+2021-04-01 17:41:05.786837 Event: User luis60 sent spam message: "spam"
+INFO:root:
+2021-04-01 17:41:05.815840 Event: User mercedes45 sent spam message: "spam"
+INFO:root:2021-04-01 17:42:21.529878 Actor: asdfgh Action: sign out 
+
+INFO:root:
+2021-04-01 17:42:21.536882 Event: User asdfgh signed out
+INFO:root:2021-04-01 17:42:26.442915 Actor: qwerty1 Action: log in 
+
+INFO:root:
+2021-04-01 17:42:26.448880 Event: User qwerty1 signed in
+INFO:root:2021-04-01 17:42:39.341880 Actor: qwerty1 Action: sign out 
+
+INFO:root:
+2021-04-01 17:42:39.348881 Event: User qwerty1 signed out
+INFO:root:2021-04-01 17:42:41.312881 Actor: qwerty1 Action: sign out 
+
+INFO:root:2021-04-01 18:20:26.229875 Actor: qwerty1 Action: log in 
+
+INFO:root:2021-04-01 18:20:40.553654 Actor: asdfgh Action: log in 
+
+INFO:root:2021-04-01 18:25:00.891815 Actor: qwerty1 Action: sign out 
+
+INFO:root:2021-04-01 18:25:02.460887 Actor: qwerty1 Action: sign out 
+
+INFO:root:2021-04-01 18:25:08.732382 Actor: asdfgh Action: sign out 
+
+INFO:root:2021-04-01 18:25:10.233243 Actor: asdfgh Action: sign out 
+
+INFO:root:2021-04-01 18:26:22.351482 Actor: qwerty1 Action: log in 
+
+INFO:root:2021-04-01 18:27:36.876256 Actor: qwerty1 Action: sign out 
+
+INFO:root:2021-04-01 18:27:38.270794 Actor: qwerty1 Action: sign out 
+
+INFO:root:2021-04-01 18:27:46.284227 Actor: qwerty1 Action: log in 
+
+INFO:root:2021-04-01 18:27:53.734196 Actor: qwerty1 Action: sign out 
+
+INFO:root:2021-04-01 18:28:15.233924 Actor: qwerty1 Action: log in 
+

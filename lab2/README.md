@@ -1,0 +1,1 @@
+# [Посилання на звіт](https://docs.google.com/document/d/1c31UMuKU7fnbltU5gr9lQ0QxqhN61eWgtnXYtqEbQsc/edit?usp=sharing)
